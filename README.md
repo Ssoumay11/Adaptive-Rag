@@ -257,7 +257,7 @@ Form Data:
 
 ```bash
 # Clone the repository
-git clone https://github.com/soumay011/Adaptive-Rag.git
+git clone https://github.com/Ssoumay11/Adaptive-Rag/tree/main
 cd AdaptiveRag
 
 # Create virtual environment
